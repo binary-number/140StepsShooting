@@ -46,7 +46,7 @@ namespace Shooting
         private void timer1_Tick(object sender, System.EventArgs e)
         {
             textBox1.Text = "レベル" + level;
-            if (time2 > 53 - level * 2)
+            if (time2 > 52 - level)
             {
                 System.Windows.Forms.Label label = new System.Windows.Forms.Label() { Size = new System.Drawing.Size(10, 4), Text = " ", BackColor = System.Drawing.Color.Red, Location = new System.Drawing.Point(label2.Location.X + label2.Size.Height / 2 - 2, label2.Location.Y + label2.Width / 2 - 4) };
                 this.Controls.Add(label);
@@ -73,7 +73,7 @@ namespace Shooting
                     {
                         Console.Beep(200, 100);
                         timer1.Stop();
-                        if (level == 25)
+                        if (level == 50)
                         {
                             System.Windows.Forms.MessageBox.Show("YouWIN\n貴方は勝ちました\nゲームを終了します");
                             System.Windows.Forms.Application.Exit();
