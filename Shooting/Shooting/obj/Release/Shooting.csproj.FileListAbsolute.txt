@@ -7,3 +7,4 @@ C:\Users\Kazuki\source\repos\Github\140StepsShooting\Shooting\Shooting\obj\Relea
 C:\Users\Kazuki\source\repos\Github\140StepsShooting\Shooting\Shooting\obj\Release\Shooting.csproj.CoreCompileInputs.cache
 C:\Users\Kazuki\source\repos\Github\140StepsShooting\Shooting\Shooting\obj\Release\140StepsShooting.exe
 C:\Users\Kazuki\source\repos\Github\140StepsShooting\Shooting\Shooting\obj\Release\140StepsShooting.pdb
+C:\Users\Kazuki\source\repos\Github\140StepsShooting\Shooting\Shooting\obj\Release\Shooting.csprojAssemblyReference.cache
