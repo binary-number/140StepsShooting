@@ -67,10 +67,11 @@
             // 
             this.textBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.textBox1.Enabled = false;
-            this.textBox1.Location = new System.Drawing.Point(722, 419);
+            this.textBox1.Font = new System.Drawing.Font("メイリオ", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.textBox1.Location = new System.Drawing.Point(722, 413);
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(66, 19);
+            this.textBox1.Size = new System.Drawing.Size(66, 25);
             this.textBox1.TabIndex = 2;
             this.textBox1.Text = "レベル1";
             // 
