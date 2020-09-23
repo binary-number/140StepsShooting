@@ -24,7 +24,7 @@ namespace Shooting
                 Keys = e.KeyCode;
                 downkey = true;
             }
-            if (e.KeyCode == System.Windows.Forms.Keys.Tab|| e.KeyCode == System.Windows.Forms.Keys.Space && time >= 20)
+            if ((e.KeyCode == System.Windows.Forms.Keys.Tab|| e.KeyCode == System.Windows.Forms.Keys.Space )&& time >= 20)
             {
                 System.Windows.Forms.Label label = new System.Windows.Forms.Label() { Size = new System.Drawing.Size(10, 4), Text = " ", BackColor = System.Drawing.Color.GreenYellow, Location = new System.Drawing.Point(label1.Location.X + label1.Width / 2, label1.Location.Y + label1.Size.Height / 2 - 2) };
                 this.Controls.Add(label);
