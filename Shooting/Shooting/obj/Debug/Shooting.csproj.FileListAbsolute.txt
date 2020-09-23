@@ -8,3 +8,13 @@ C:\Users\Kazuki\source\repos\Shooting\Shooting\obj\Debug\Shooting.csproj.Generat
 C:\Users\Kazuki\source\repos\Shooting\Shooting\obj\Debug\Shooting.csproj.CoreCompileInputs.cache
 C:\Users\Kazuki\source\repos\Shooting\Shooting\obj\Debug\Shooting.exe
 C:\Users\Kazuki\source\repos\Shooting\Shooting\obj\Debug\Shooting.pdb
+C:\Users\Kazuki\source\repos\Github\140StepsShooting\Shooting\Shooting\obj\Debug\Shooting.csprojAssemblyReference.cache
+C:\Users\Kazuki\source\repos\Github\140StepsShooting\Shooting\Shooting\obj\Debug\Shooting.Form1.resources
+C:\Users\Kazuki\source\repos\Github\140StepsShooting\Shooting\Shooting\obj\Debug\Shooting.Properties.Resources.resources
+C:\Users\Kazuki\source\repos\Github\140StepsShooting\Shooting\Shooting\obj\Debug\Shooting.csproj.GenerateResource.cache
+C:\Users\Kazuki\source\repos\Github\140StepsShooting\Shooting\Shooting\obj\Debug\Shooting.csproj.CoreCompileInputs.cache
+C:\Users\Kazuki\source\repos\Github\140StepsShooting\Shooting\Shooting\bin\Debug\140StepsShooting.exe.config
+C:\Users\Kazuki\source\repos\Github\140StepsShooting\Shooting\Shooting\bin\Debug\140StepsShooting.exe
+C:\Users\Kazuki\source\repos\Github\140StepsShooting\Shooting\Shooting\bin\Debug\140StepsShooting.pdb
+C:\Users\Kazuki\source\repos\Github\140StepsShooting\Shooting\Shooting\obj\Debug\140StepsShooting.exe
+C:\Users\Kazuki\source\repos\Github\140StepsShooting\Shooting\Shooting\obj\Debug\140StepsShooting.pdb
